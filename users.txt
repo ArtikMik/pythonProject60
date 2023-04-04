@@ -1,0 +1,1 @@
+{'phone_number': '375333722571', 'first_name': 'Артёмка', 'last_name': 'Михнюк', 'user_id': 1046814681, 'vcard': None}
